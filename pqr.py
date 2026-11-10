@@ -1,2 +1,4 @@
 print("helloooo")
-ptint("good day")
+print("good day")
+print("hiiiii")
+print("heyyyy")
